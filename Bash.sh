@@ -1,0 +1,16 @@
+clear
+echo "Sublerti"
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo "########################"
+echo "1)Поиск Жертвы         |"
+echo "########################"
+echo "2)Потключение к жертве |"
+echo "########################"
+echo ""
+toilet sublerti
